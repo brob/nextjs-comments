@@ -1,6 +1,6 @@
 # Next.js blog with comment section
 
-This is a demo of how to add a simple comment section to blog post using [Next.js](https://nextjs.org), [Sanity.io](https://www.sanity.io), and [Vercel](https://vercel.com).
+This is a demo of how to add a simple comment section to blog post using [Next.js](https://nextjs.org), [Sanity.io](https://www.sanity.io), and [Vercel](https://vercel.com). test
 
 Interested in how it was made? See [how to build a commenting engine with Sanity and Next.js on CSS Tricks](https://css-tricks.com).
 
